@@ -20,4 +20,13 @@ if (inputValue === '') {
     li.toggleClass('strike');
  });
 
+//3(i). Adding the delete button "X": 
+let crossOutButton = 
+
+
+//3(ii). Adding CLASS DELETE (DISPLAY: NONE) from the css:
+
+// 4. Reordering the items: 
+$('#list').sortable();
+
 }
